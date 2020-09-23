@@ -1,5 +1,5 @@
 # IonicReact MusicApp Spotify API - Proyecto Final
-## MAteria Tópicos Especiales 2020 A
+## Materia: Tópicos Especiales 2020 A
 ## Integrantes:
 - Erick Bolaños
 - Marco Orquera
